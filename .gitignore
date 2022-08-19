@@ -27,3 +27,6 @@ lib/
 
 # Application bundle for Mac OS
 *.app/
+
+# Mac Finder state files
+.DS_Store
